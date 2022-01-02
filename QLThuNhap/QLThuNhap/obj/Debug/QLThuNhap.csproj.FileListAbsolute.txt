@@ -1,0 +1,12 @@
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\bin\Debug\QLThuNhap.exe.config
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\bin\Debug\QLThuNhap.exe
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\bin\Debug\QLThuNhap.pdb
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.csproj.AssemblyReference.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.csproj.SuggestedBindingRedirects.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.Form1.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.Form2.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.Properties.Resources.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.csproj.GenerateResource.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.csproj.CoreCompileInputs.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.exe
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\QLThuNhap\QLThuNhap\obj\Debug\QLThuNhap.pdb
